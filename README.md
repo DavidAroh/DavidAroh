@@ -1,4 +1,6 @@
 ## 👋 About Me
+
+bash grab.sh  # fetch runtime deps
 Frontend developer building modern, interactive web experiences and AI-powered products.
 
 - 🔭 Working on React-based and AI-powered web apps  
